@@ -1,0 +1,5 @@
+E:\Habib\AttendancePortalUpdate\DataAccess\bin\Debug\DataAccess.dll
+E:\Habib\AttendancePortalUpdate\DataAccess\bin\Debug\DataAccess.pdb
+E:\Habib\AttendancePortalUpdate\DataAccess\obj\Debug\DataAccess.dll
+E:\Habib\AttendancePortalUpdate\DataAccess\obj\Debug\DataAccess.pdb
+E:\Habib\AttendancePortalUpdate\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
